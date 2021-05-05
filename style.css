@@ -72,7 +72,7 @@ nav ul li a:hover {
 }
 
 .col-1 h3 {
-    font-size: 30px;
+    font-size: 35px;
     color: #707070;
     font-weight: 100;
     margin: 20px 0 10px;
@@ -172,6 +172,7 @@ button:hover {
 }
 
 .social-links {
+    margin-top: -40px;
     text-align: center;
 }
 
