@@ -5,7 +5,7 @@
 <a href="https://ifullstack-tv.github.io/parallax-scrolling-website/">Demo</a>
 <div>
 <a href="https://ifullstack-tv.github.io/parallax-scrolling-website/"><img src="https://github.com/iFullStack-tv/responsive-website-design-html5-css3/blob/main/demo-web.jpg" width="75%"></a>
- <a href="https://ifullstack-tv.github.io/parallax-scrolling-website/"><img src="https://github.com/iFullStack-tv/responsive-website-design-html5-css3/blob/main/demo-mobile.png" width="25%"></a>
+ <a href="https://ifullstack-tv.github.io/parallax-scrolling-website/"><img src="https://github.com/iFullStack-tv/responsive-website-design-html5-css3/blob/main/demo-mobile.png" width="20%"></a>
 </div>
 
 <div align="center">
