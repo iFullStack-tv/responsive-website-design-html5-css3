@@ -1,4 +1,4 @@
-<h1 align="center">Responsive Website Design usando HTML5, CSS3 & JavaScript</h1>
+<h1 align="center">Responsive Website usando HTML5, CSS3 & JavaScript</h1>
 
 <p>Neste repositório criamos um website design responsivo em html5, css3 & javascript com <a href="https://youtu.be/y33Y5pfTpiA">vídeo aula</a> em nosso <a href="https://www.youtube.com/channel/UCDUs_tL_rNpmwR3Ep7ZtchA?sub_confirmation=1">Canal do Youtube</a>.</p>
 
