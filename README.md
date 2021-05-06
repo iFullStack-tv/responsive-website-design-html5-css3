@@ -3,9 +3,9 @@
 <p>Neste repositório criamos um website design responsivo em html5, css3 & javascript com <a href="https://youtu.be/y33Y5pfTpiA">vídeo aula</a> em nosso <a href="https://www.youtube.com/channel/UCDUs_tL_rNpmwR3Ep7ZtchA?sub_confirmation=1">Canal do Youtube</a>.</p>
 
 <a href="https://ifullstack-tv.github.io/parallax-scrolling-website/">Demo</a>
-<div display="flex" align-items="center">
+<div>
 <a href="https://ifullstack-tv.github.io/parallax-scrolling-website/"><img src="https://github.com/iFullStack-tv/responsive-website-design-html5-css3/blob/main/demo-web.jpg" width="70%" heigth="300px"></a>
- <a href="https://ifullstack-tv.github.io/parallax-scrolling-website/"><img src="https://github.com/iFullStack-tv/responsive-website-design-html5-css3/blob/main/demo-mobile.png" width="20%" heigth="300px"></a>
+ <a href="https://ifullstack-tv.github.io/parallax-scrolling-website/"><img src="https://github.com/iFullStack-tv/responsive-website-design-html5-css3/blob/main/demo-mobile.png" width="20%" heigth="270px"></a>
 </div>
 
 <div align="center">
