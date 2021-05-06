@@ -1,6 +1,6 @@
 <h1 align="center">Responsive Website usando HTML5, CSS3 & JavaScript</h1>
 
-<p>Neste repositório criamos um website design responsivo em html5, css3 & javascript com <a href="https://youtu.be/y33Y5pfTpiA">vídeo aula</a> em nosso <a href="https://www.youtube.com/channel/UCDUs_tL_rNpmwR3Ep7ZtchA?sub_confirmation=1">Canal do Youtube</a>.</p>
+<p>Neste repositório criamos um website design responsivo em html5, css3 & javascript com <a href="https://youtu.be/gKtsfnJ_jSU">vídeo aula</a> em nosso <a href="https://www.youtube.com/channel/UCDUs_tL_rNpmwR3Ep7ZtchA?sub_confirmation=1">Canal do Youtube</a>.</p>
 
 <a href="https://ifullstack-tv.github.io/responsive-website-design-html5-css3/">Demo</a>
 <a href="https://ifullstack-tv.github.io/responsive-website-design-html5-css3/"><img src="https://github.com/iFullStack-tv/responsive-website-design-html5-css3/blob/main/demo-image.png" width="100%"></a>
